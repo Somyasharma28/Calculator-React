@@ -1,0 +1,13 @@
+.card{
+    width: 18rem;
+    height: 4rem;
+    border: 10px solid black !important;  
+    border-radius: 0%;
+}
+
+.card-body{
+    color: black;
+    text-align: end;
+    font-size: 18px;
+    font-weight: 500;
+}

@@ -1,0 +1,21 @@
+.grid-container{
+    width: 18rem;
+    height: 14rem;
+    background-color: black;
+} 
+
+.grid-row{
+    padding-top: 4px;
+}
+
+.toprow{
+    padding-top: 8px !important;
+}
+
+.btn{
+    width: 3rem;
+}
+.ans, .clear{
+    width: 5rem;
+    margin: 3px !important;
+}
